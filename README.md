@@ -14,7 +14,7 @@
 
 💬 Ask me about deep learning, Python programming, FPGA-based system design, or anything related to image and speech processing.
 
-📫 How to reach me: You can reach me at 1812107659@qq.com or on my [LinkedIn](#) (please replace '#' with your actual LinkedIn profile link).
+📫 How to reach me: You can reach me at wyz_yy@mail.nwpu.edu.cn or 1812107659@qq.com
 
 😄 Pronouns: He/Him
 
