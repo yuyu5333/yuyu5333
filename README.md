@@ -6,9 +6,9 @@
 
 🔭 I’m currently working on a multi-spectral mosaic image restoration project at the Xi'an Institute of Optics and Precision Mechanics of CAS, where I develop techniques to restore high-quality images by combining spatial and spectral information from multi-spectral images.
 
-🎓 I am currently a Master's student at the School of Computer Science, Northwestern Polytechnical University, majoring in Computer Science and Technology with a focus on intelligent IoT terminals.
+🎓 I am currently a Master's student at the School of Computer Science, Northwestern Polytechnical University,
 
-🌱 I'm pursuing my Master's degree in Computer Science and Technology at Northwestern Polytechnical University, specializing in image processing and machine learning.
+🌱 I'm pursuing my Master's degree in Computer Science and Technology at Northwestern Polytechnical University,  majoring in Computer Science and Technology with a focus on intelligent IoT terminals.
 
 👯 I’m looking to collaborate on open source projects that are focused on machine learning, data science, and IoT middleware platforms.
 
@@ -23,7 +23,7 @@
 🏅 Some of my achievements include:
 - Excellent Graduate Student Award at Northwestern Polytechnical University.
 - First place in the Northwestern Polytechnical University Mathematics Modeling Competition.
-- Second author on a SCI Q1 journal paper.
+- Second author on a SCI Q1 journal paper IoT Journal.
 
 👨‍💻 My tech stack includes:
 - **Programming Languages:** C++, Python, Verilog
